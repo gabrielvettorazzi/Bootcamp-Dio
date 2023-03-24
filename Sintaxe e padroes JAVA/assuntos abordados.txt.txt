@@ -1,0 +1,7 @@
+> 
+>Estrutura inicial
+>padrao de nomenclaturaa
+>declarando variaveis
+>identacao
+>organizacao arquivos
+>JAVA BEANS
